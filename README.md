@@ -142,25 +142,6 @@ plt.show()
 
 ---
 
-## ✅ Conclusion
-
-This EDA highlights **important risk drivers** behind loan default. The insights can be directly used for:
-
-- Credit risk scoring models
-- Business decision-making
-- Feature selection for ML models
-
----
-
-## 🚀 Next Steps
-
-- Feature engineering
-- Handle class imbalance
-- Build ML models (Logistic Regression, XGBoost)
-- Model evaluation using ROC-AUC
-
----
-
 ## 👤 Author
 
 **Suraj Prasad**
